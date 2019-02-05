@@ -1,2 +1,3 @@
 # hello-world
-I'm just following the start guide 
+I'm just following the start guide.
+Again, follow the guide to commit changes...
